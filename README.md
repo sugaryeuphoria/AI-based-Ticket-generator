@@ -14,25 +14,37 @@ A powerful web application that automates the creation of project management tic
 
 *Click any image for a better view.*
 
+---
+
 **1. Upload Excel File**
 *The initial screen where users upload their Excel file containing task descriptions.*
 <img src="assets/Screenshot%202025-05-01%20at%2012.35.52%E2%80%AFPM.png" width="500" alt="Upload Excel File" />
+
+---
 
 **2. File Uploaded + Task Extraction**
 *Successfully uploaded file and shows the extracted tasks from the Excel sheet, ready for AI analysis.*
 <img src="assets/Screenshot%202025-05-01%20at%2012.36.43%E2%80%AFPM.png" width="500" alt="File Upload Success" />
 
+---
+
 **3. Table View of Generated Tickets**
 *Shows a clean, tabular layout of all generated tickets with key information like ID, title, status, story points, and assignee.*
 <img src="assets/Screenshot%202025-05-01%20at%2012.42.10%E2%80%AFPM.png" width="500" alt="Table View" />
+
+---
 
 **4. Card View of Tickets**
 *A visually compact card layout, ideal for quick scanning and mimicking modern sprint boards.*
 <img src="assets/Screenshot%202025-05-01%20at%2012.42.17%E2%80%AFPM.png" width="500" alt="Card View" />
 
+---
+
 **5. Full Ticket Detail View**
 *Expands into a detailed editable view allowing modification of all ticket fields, including comments, story points, assignments, and status.*
 <img src="assets/Screenshot%202025-05-01%20at%2012.42.29%E2%80%AFPM.png" width="500" alt="Ticket Details" />
+
+---
 
 ## 🚀 Getting Started
 
